@@ -1,4 +1,4 @@
-Coursera: University of Washington - Machine Learning Foundations, A Case Study Approach
+## Coursera: University of Washington - Machine Learning Foundations, A Case Study Approach
 
 ## Week 1: Overview and Introduction
 
