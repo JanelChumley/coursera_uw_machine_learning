@@ -16,7 +16,7 @@
 
 - [Assignment 4](https://github.com/JanelChumley/coursera_uw_machine_learning/tree/master/machine_learning_foundations/week4)
 
-### Week 5: Song Recommender System
+### Week 5: Song Recommender
 
 - [Assignment 5](https://github.com/JanelChumley/coursera_uw_machine_learning/tree/master/machine_learning_foundations/week5)
 
